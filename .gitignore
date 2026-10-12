@@ -1,0 +1,15 @@
+# NEVER publish credentials or session information
+.streamlit/secrets.toml
+secrets.toml
+*.json.key
+*service-account*.json
+*credentials*.json
+.env
+.env.*
+!*.example
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
