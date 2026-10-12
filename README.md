@@ -13,7 +13,8 @@
 
 ## Live chatbot
 
-**Streamlit URL:** `YOUR_DEPLOYED_APP_URL` (add this after deployment and verify that it works in a private/incognito tab).  
+**Streamlit URL:** [Open the live ParentConnect AI chatbot](https://idai1011000521-nived-chandrasudan-nzdwzhh68kjjnrxbsbuny4.streamlit.app/)  
+**Live-site verification:** URL provided by the student, who reports a working chatbot and five passed tests. Independent public access verification is still pending (test the link in a private/incognito browser).  
 **Technology:** Dialogflow ES `detectIntent` through its V2 API, Python and Streamlit Community Cloud.
 
 ## 1. Project overview
